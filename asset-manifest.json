@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/holidify_tour_and_traveler/static/css/main.c6b741ee.css",
+    "main.js": "/holidify_tour_and_traveler/static/js/main.4bcf7828.js",
+    "static/media/videoFooter.mp4": "/holidify_tour_and_traveler/static/media/videoFooter.614e06fd461fbfa1053d.mp4",
+    "static/media/topVideo.mp4": "/holidify_tour_and_traveler/static/media/topVideo.3c1eaa71f08be2c6f273.mp4",
+    "static/media/tajMahal.jpg": "/holidify_tour_and_traveler/static/media/tajMahal.eea6a6285763f2f90103.jpg",
+    "static/media/newYorkCity.jpg": "/holidify_tour_and_traveler/static/media/newYorkCity.8a32145d751c183a85fe.jpg",
+    "static/media/costaRica.jpg": "/holidify_tour_and_traveler/static/media/costaRica.9f18d0f26531812ef921.jpg",
+    "static/media/santorini.jpg": "/holidify_tour_and_traveler/static/media/santorini.2afc86089fc219f9c070.jpg",
+    "static/media/coorg.jpg": "/holidify_tour_and_traveler/static/media/coorg.e850bb29b09da4b051be.jpg",
+    "static/media/maldives.jpg": "/holidify_tour_and_traveler/static/media/maldives.fa025fc8c1e70f7007e0.jpg",
+    "static/media/bali.jpg": "/holidify_tour_and_traveler/static/media/bali.7d5db8e354f5d0034f37.jpg",
+    "static/media/phuket.jpg": "/holidify_tour_and_traveler/static/media/phuket.5ccb76351168e7a6ecc5.jpg",
+    "static/media/sydney.jpg": "/holidify_tour_and_traveler/static/media/sydney.93971272c60e311fedb0.jpg",
+    "static/media/sanFrancisco.jpg": "/holidify_tour_and_traveler/static/media/sanFrancisco.105f44eca4bb6056db96.jpg",
+    "index.html": "/holidify_tour_and_traveler/index.html",
+    "main.c6b741ee.css.map": "/holidify_tour_and_traveler/static/css/main.c6b741ee.css.map",
+    "main.4bcf7828.js.map": "/holidify_tour_and_traveler/static/js/main.4bcf7828.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6b741ee.css",
+    "static/js/main.4bcf7828.js"
+  ]
+}
